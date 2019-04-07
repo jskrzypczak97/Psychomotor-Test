@@ -1,0 +1,63 @@
+﻿<Window x:Class="Psychomotor_Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Psychomotor_Test"
+        mc:Ignorable="d"
+        Left="400"
+        Top="50"
+        Title="Menu" Height="700" Width="500">
+    <Grid>
+        <StackPanel Margin="50 50 50 0">
+            <TextBlock 
+                FontSize="30"
+                Margin="20 20 0 20"
+                HorizontalAlignment="Center"
+                Text="PSYCHOMOTOR TEST"                 
+                FontFamily="/Psychomotor Test;component/Fonts/#Neo Fobia"/>
+            <Image
+                Source="menu_car.png" 
+                HorizontalAlignment="Center"
+                Height="170"
+                Margin="20 0 20 20"
+                />
+            <Button 
+                Name="B_Session"
+                Height="30"
+                Margin="40 5 40 30"
+                Content="Full Session"
+                Click="Session_Action"
+                FontFamily="/Psychomotor Test;component/Fonts/#Neo Fobia"
+                />
+            <Button 
+                Name="B_Complex_Test"
+                Height="30"
+                Margin="40 5"
+                Content="Complex Reaction Test"
+                Click="Complex_Reaction_Test_Action" FontFamily="/Psychomotor Test;component/Fonts/#Neo Fobia"
+                />
+            <Button 
+                Name="B_Simple_Test"
+                Height="30" 
+                Margin="40 5"
+                Content="Simple Reaction Test"
+                Click="Simple_Reaction_Test_Action" FontFamily="/Psychomotor Test;component/Fonts/#Neo Fobia"
+                />
+            <Button 
+                Name="B_Sound_Test" 
+                Height="30" 
+                Margin="40 5"
+                Content="Sound Reaction Test" 
+                Click="Sound_Reaction_Test_Action" FontFamily="/Psychomotor Test;component/Fonts/#Neo Fobia"
+                />
+            <Button 
+                Name="B_Finish" 
+                Height="30" 
+                Margin="40 80 40 0"
+                Content="Finish" 
+                Click="Finish_Action" FontFamily="/Psychomotor Test;component/Fonts/#Neo Fobia"
+                />
+        </StackPanel>
+    </Grid>
+</Window>

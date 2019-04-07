@@ -1,0 +1,9 @@
+It's very simple. During the test first you will see amber light 
+which will be on only for a while. After random amount of time it 
+will change for red or green. If it's red you have to hit the brake, 
+otherwise the gas pedal. The sooner you react the better!
+
+BRAKE: Left Ctrl
+GAS: Right Ctrl
+
+Good luck!

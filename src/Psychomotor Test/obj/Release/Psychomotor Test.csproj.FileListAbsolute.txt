@@ -1,0 +1,47 @@
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\Psychomotor Test.exe.config
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\Psychomotor Test.exe
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\Psychomotor Test.pdb
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Test_Rules.g.cs
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\MainWindow.g.cs
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Complex_Test.g.cs
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Simple_Test.g.cs
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Sound_Test.g.cs
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\App.g.cs
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Psychomotor Test_MarkupCompile.cache
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Psychomotor Test_MarkupCompile.lref
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Test_Rules.baml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\MainWindow.baml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Complex_Test.baml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Simple_Test.baml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Sound_Test.baml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Psychomotor Test.g.resources
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Psychomotor_Test.Properties.Resources.resources
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Psychomotor Test.csproj.GenerateResource.cache
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Psychomotor Test.csproj.CoreCompileInputs.cache
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Psychomotor Test.exe
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Psychomotor Test.pdb
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Psychomotor Test.csprojAssemblyReference.cache
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\OxyPlot.dll
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\OxyPlot.Wpf.dll
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\OxyPlot.pdb
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\OxyPlot.xml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\OxyPlot.Wpf.pdb
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\OxyPlot.Wpf.xml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Psychomotor Test.csproj.CopyComplete
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Analysis.g.cs
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Analysis.baml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\IronPython.dll
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\IronPython.Modules.dll
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\IronPython.SQLite.dll
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\IronPython.Wpf.dll
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\Microsoft.Dynamic.dll
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\Microsoft.Scripting.dll
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\Microsoft.Scripting.Metadata.dll
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\IronPython.xml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\IronPython.Modules.xml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\IronPython.SQLite.xml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\IronPython.Wpf.xml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\Microsoft.Dynamic.xml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\Microsoft.Scripting.xml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\bin\Release\Microsoft.Scripting.Metadata.xml
+C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\obj\Release\Psychomotor Test_Content.g.cs

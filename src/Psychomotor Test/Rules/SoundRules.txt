@@ -1,0 +1,12 @@
+You will now have to use your ears. In every attempt you will hear
+a song played with a different volume value (low, medium or high).
+Each time music will be gradually interrupted by one of emergency
+sound, siren or horn. You job is to react correctly to those sound
+by pressing gas for horn and brake for siren. Again, GAS for horn 
+and BRAKE for siren ;)
+
+BRAKE: Left Ctrl
+GAS: Right Ctrl
+
+Good luck!
+

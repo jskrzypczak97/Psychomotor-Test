@@ -1,0 +1,167 @@
+﻿<Window x:Class="Psychomotor_Test.Analysis"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Psychomotor_Test"
+        xmlns:oxy="clr-namespace:OxyPlot.Wpf;assembly=OxyPlot.Wpf" 
+        mc:Ignorable="d"
+        Top="50"
+        Left="15"
+        Title="Analysis" Height="600" Width="1500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Name="G_MidCol" Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Name="G_LeftImage" Grid.Row="0" Grid.Column="0" Visibility="Visible">
+            <Image 
+                Name="Img_Left"
+                Source="C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\Analysis\plot.PNG"
+                Margin="10 20" 
+                VerticalAlignment="Center"
+                Visibility="Visible"/>
+        </Grid>
+        <Grid Name="G_MidImage" Grid.Row="0" Grid.Column="1" Visibility="Visible">
+            <Image 
+                Name="Img_Mid"
+                Source="C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\Analysis\plot.PNG"
+                Margin="10 20" 
+                VerticalAlignment="Center"
+                Visibility="Visible"/>
+        </Grid>
+        <Grid Name="G_RightImage" Grid.Row="0" Grid.Column="2" Visibility="Visible">
+            <Image 
+                Name="Img_Right"
+                Source="C:\Users\jskrz\Desktop\ASK\ASK PROJEKT 5\Psychomotor Test\Psychomotor Test\Analysis\plot.PNG"
+                Margin="10 20" 
+                VerticalAlignment="Center"
+                Visibility="Visible"/>
+        </Grid>
+        <Grid Name="G_LeftTime" Grid.Row="1" Grid.Column="0" Visibility="Visible">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <TextBlock
+                    Name="TB_Left_Avg"
+                    Margin="10 20"
+                    Text="Average: 00:000"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    FontSize="16"
+                    FontFamily="/Psychomotor Test;component/Fonts/#Vladivostok"
+                    />
+            </Grid>
+            <Grid Grid.Column="1">
+                <TextBlock
+                    Name="TB_Left_Min"
+                    Margin="10 20"
+                    Text="Min: 00:000"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    FontSize="16"
+                    FontFamily="/Psychomotor Test;component/Fonts/#Vladivostok"
+                    />
+            </Grid>
+            <Grid Grid.Column="2">
+                <TextBlock
+                    Name="TB_Left_Max"
+                    Margin="10 20"
+                    Text="Max: 00:000"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    FontSize="16"
+                    FontFamily="/Psychomotor Test;component/Fonts/#Vladivostok"
+                    />
+            </Grid>
+        </Grid>
+        <Grid Name="G_MidTime" Grid.Row="1" Grid.Column="1" Visibility="Visible">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <TextBlock
+                    Name="TB_Mid_Avg"
+                    Margin="10 20"
+                    Text="Average: 00:000"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    FontSize="16"
+                    FontFamily="/Psychomotor Test;component/Fonts/#Vladivostok"
+                    />
+            </Grid>
+            <Grid Grid.Column="1">
+                <TextBlock
+                    Name="TB_Mid_Min"
+                    Margin="10 20"
+                    Text="Min: 00:000"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    FontSize="16"
+                    FontFamily="/Psychomotor Test;component/Fonts/#Vladivostok"
+                    />
+            </Grid>
+            <Grid Grid.Column="2">
+                <TextBlock
+                    Name="TB_Mid_Max"
+                    Margin="10 20"
+                    Text="Max: 00:000"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    FontSize="16"
+                    FontFamily="/Psychomotor Test;component/Fonts/#Vladivostok"
+                    />
+            </Grid>
+        </Grid>
+        <Grid Name="G_RightTime" Grid.Row="1" Grid.Column="2" Visibility="Visible">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <TextBlock
+                    Name="TB_Right_Avg"
+                    Margin="10 20"
+                    Text="Average: 00:000"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    FontSize="16"
+                    FontFamily="/Psychomotor Test;component/Fonts/#Vladivostok"
+                    />
+            </Grid>
+            <Grid Grid.Column="1">
+                <TextBlock
+                    Name="TB_Right_Min"
+                    Margin="10 20"
+                    Text="Min: 00:000"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    FontSize="16"
+                    FontFamily="/Psychomotor Test;component/Fonts/#Vladivostok"
+                    />
+            </Grid>
+            <Grid Grid.Column="2">
+                <TextBlock
+                    Name="TB_Right_Max"
+                    Margin="10 20"
+                    Text="Max: 00:000"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    FontSize="16"
+                    FontFamily="/Psychomotor Test;component/Fonts/#Vladivostok"
+                    />
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

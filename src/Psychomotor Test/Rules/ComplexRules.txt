@@ -1,0 +1,7 @@
+Your goal is to pick the correct matrix element as quick as you can.
+In single attempt two lights will be tuned on, one on the left and 
+one on the top.Each time all you have to do is press the button which 
+possition is corresponding to those lights. There is going to be thirty 
+attempts in total. Cilck 'Training mode' to see how it works.
+
+Good luck!

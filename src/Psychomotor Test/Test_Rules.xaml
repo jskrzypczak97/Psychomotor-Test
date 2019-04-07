@@ -1,0 +1,62 @@
+﻿<Window x:Class="Psychomotor_Test.Test_Rules"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Psychomotor_Test"
+        mc:Ignorable="d"
+        IsEnabled="False"
+        Left="500"
+        Top="200"
+        ResizeMode="NoResize"
+        Title="Test Rules" Height="300" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="10">
+            <StackPanel>
+                <TextBlock
+                    Text="Simple Rules:"
+                    Margin="5" FontFamily="/Psychomotor Test;component/Fonts/#Neo Fobia"
+                    />
+                <TextBlock
+                    Name="TB_Rules"
+                    Text=""
+                    Height="130"
+                    Margin="10" FontFamily="/Psychomotor Test;component/Fonts/#Neo Fobia"
+                    />
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Button 
+                Content="Okay"
+                Height="30"
+                Width="90"
+                VerticalAlignment="Center"
+                Margin="40, 10, 350, 10" FontFamily="/Psychomotor Test;component/Fonts/#Neo Fobia" Click="Okay_Action"
+                />
+            <Button 
+                Name="B_Siren"
+                Content="Play Siren"
+                Height="30"
+                Width="90"
+                Visibility="Hidden"
+                Margin="235, 10, 160, 10" 
+                FontFamily="/Psychomotor Test;component/Fonts/#Neo Fobia" 
+                Click="Sound_Action"
+                />
+            <Button 
+                Name="B_Horn"
+                Content="Play Horn"
+                Height="30"
+                Width="90"
+                Visibility="Hidden"
+                Margin="350, 10, 40, 10" 
+                FontFamily="/Psychomotor Test;component/Fonts/#Neo Fobia"
+                Click="Sound_Action"
+                />
+        </Grid>
+    </Grid>
+</Window>
